@@ -20,7 +20,7 @@ author: Ron Tarrant
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img0" src="/images/screenshots/002_button/button_13.png" alt="Current example output">		<!-- img# -->
+			<img id="img0" src="/gtkDcoding/images/screenshots/002_button/button_13.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal0" class="modal">																	<!-- modal# -->
@@ -62,7 +62,7 @@ author: Ron Tarrant
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img1" src="/images/screenshots/002_button/button_13_term.png" alt="Current example terminal output">		<!-- img#, filename -->
+			<img id="img1" src="/gtkDcoding/images/screenshots/002_button/button_13_term.png" alt="Current example terminal output">		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal1" class="modal">																				<!-- modal# -->
@@ -195,7 +195,7 @@ So, let’s move on to our next subject...
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img2" src="/images/screenshots/002_button/button_14.png" alt="Current example output">		<!-- img# -->
+			<img id="img2" src="/gtkDcoding/images/screenshots/002_button/button_14.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal2" class="modal">																<!-- modal# -->
@@ -237,7 +237,7 @@ So, let’s move on to our next subject...
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img3" src="/images/screenshots/002_button/button_14_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img3" src="/gtkDcoding/images/screenshots/002_button/button_14_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal3" class="modal">																			<!-- modal# -->

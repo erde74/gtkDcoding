@@ -22,7 +22,7 @@ Accessing any child widgets we've stuffed into `Notebook` pages—for loading or
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img0" src="/images/screenshots/014_container/container_19.png" alt="Current example output">		<!-- img# -->
+			<img id="img0" src="/gtkDcoding/images/screenshots/014_container/container_19.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal0" class="modal">																	<!-- modal# -->
@@ -64,7 +64,7 @@ Accessing any child widgets we've stuffed into `Notebook` pages—for loading or
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img1" src="/images/screenshots/014_container/container_19_term.png" alt="Current example terminal output">		<!-- img#, filename -->
+			<img id="img1" src="/gtkDcoding/images/screenshots/014_container/container_19_term.png" alt="Current example terminal output">		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal1" class="modal">																				<!-- modal# -->
@@ -194,7 +194,7 @@ What if we wanna reset the tab text programmatically?
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img2" src="/images/screenshots/014_container/container_20.png" alt="Current example output">		<!-- img# -->
+			<img id="img2" src="/gtkDcoding/images/screenshots/014_container/container_20.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal2" class="modal">																<!-- modal# -->
@@ -236,7 +236,7 @@ What if we wanna reset the tab text programmatically?
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img3" src="/images/screenshots/014_container/container_20_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img3" src="/gtkDcoding/images/screenshots/014_container/container_20_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal3" class="modal">																			<!-- modal# -->

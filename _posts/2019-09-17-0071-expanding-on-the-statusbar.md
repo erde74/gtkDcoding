@@ -24,7 +24,7 @@ But even more interesting is that you can stuff other things into the `Box`.
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img0" src="/images/screenshots/bar_04.png" alt="Current example output">		<!-- img# -->
+			<img id="img0" src="/gtkDcoding/images/screenshots/bar_04.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal0" class="modal">																	<!-- modal# -->
@@ -66,7 +66,7 @@ But even more interesting is that you can stuff other things into the `Box`.
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img1" src="/images/screenshots/bar_04_term.png" alt="Current example terminal output">		<!-- img#, filename -->
+			<img id="img1" src="/gtkDcoding/images/screenshots/bar_04_term.png" alt="Current example terminal output">		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal1" class="modal">																				<!-- modal# -->
@@ -194,7 +194,7 @@ Now, we have one more example to look at...
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img2" src="/images/screenshots/bar_05.png" alt="Current example output">		<!-- img# -->
+			<img id="img2" src="/gtkDcoding/images/screenshots/bar_05.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal2" class="modal">																<!-- modal# -->
@@ -236,7 +236,7 @@ Now, we have one more example to look at...
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img3" src="/images/screenshots/bar_05_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img3" src="/gtkDcoding/images/screenshots/bar_05_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal3" class="modal">																			<!-- modal# -->

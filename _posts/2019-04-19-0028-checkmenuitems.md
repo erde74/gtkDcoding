@@ -20,7 +20,7 @@ Today we’ll cover another type of `MenuItem`, the `CheckMenuItem`. This post i
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img0" src="/images/screenshots/012_menus/menu_09.png" alt="Current example output">		<!-- img# -->
+			<img id="img0" src="/gtkDcoding/images/screenshots/012_menus/menu_09.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal0" class="modal">																	<!-- modal# -->
@@ -62,7 +62,7 @@ Today we’ll cover another type of `MenuItem`, the `CheckMenuItem`. This post i
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img1" src="/images/screenshots/012_menus/menu_09_term.png" alt="Current example terminal output">		<!-- img#, filename -->
+			<img id="img1" src="/gtkDcoding/images/screenshots/012_menus/menu_09_term.png" alt="Current example terminal output">		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal1" class="modal">																				<!-- modal# -->
@@ -142,7 +142,7 @@ While digging into this widget, I found myself unable to resist doing a more com
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img2" src="/images/screenshots/012_menus/menu_10.png" alt="Current example output">		<!-- img# -->
+			<img id="img2" src="/gtkDcoding/images/screenshots/012_menus/menu_10.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal2" class="modal">																<!-- modal# -->
@@ -184,7 +184,7 @@ While digging into this widget, I found myself unable to resist doing a more com
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img3" src="/images/screenshots/012_menus/menu_10_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img3" src="/gtkDcoding/images/screenshots/012_menus/menu_10_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal3" class="modal">																			<!-- modal# -->

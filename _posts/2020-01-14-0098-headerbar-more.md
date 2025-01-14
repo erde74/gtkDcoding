@@ -22,7 +22,7 @@ Something else you can do with a `HeaderBar` is add an extra `Button` or three. 
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img0" src="/images/screenshots/001_window/window_17.png" alt="Current example output">		<!-- img# -->
+			<img id="img0" src="/gtkDcoding/images/screenshots/001_window/window_17.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal0" class="modal">																	<!-- modal# -->
@@ -64,7 +64,7 @@ Something else you can do with a `HeaderBar` is add an extra `Button` or three. 
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img1" src="/images/screenshots/001_window/window_17_term.png" alt="Current example terminal output">		<!-- img#, filename -->
+			<img id="img1" src="/gtkDcoding/images/screenshots/001_window/window_17_term.png" alt="Current example terminal output">		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal1" class="modal">																				<!-- modal# -->
@@ -165,7 +165,7 @@ That gives us a `Button` to the left of the `HeaderBar`’s title and subtitle. 
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img2" src="/images/screenshots/001_window/window_18.png" alt="Current example output">		<!-- img# -->
+			<img id="img2" src="/gtkDcoding/images/screenshots/001_window/window_18.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal2" class="modal">																<!-- modal# -->
@@ -207,7 +207,7 @@ That gives us a `Button` to the left of the `HeaderBar`’s title and subtitle. 
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img3" src="/images/screenshots/001_window/window_18_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img3" src="/gtkDcoding/images/screenshots/001_window/window_18_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal3" class="modal">																			<!-- modal# -->
@@ -277,7 +277,7 @@ But what if we need to have our standard `Button`s move around under user contro
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img4" src="/images/screenshots/001_window/window_19.png" alt="Current example output">		<!-- img# -->
+			<img id="img4" src="/gtkDcoding/images/screenshots/001_window/window_19.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal4" class="modal">																<!-- modal# -->
@@ -319,7 +319,7 @@ But what if we need to have our standard `Button`s move around under user contro
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img5" src="/images/screenshots/001_window/window_19_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img5" src="/gtkDcoding/images/screenshots/001_window/window_19_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal5" class="modal">																			<!-- modal# -->
@@ -427,7 +427,7 @@ And just to round things out, let’s take a quick look at one more thing we can
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img6" src="/images/screenshots/001_window/window_20.png" alt="Current example output">		<!-- img# -->
+			<img id="img6" src="/gtkDcoding/images/screenshots/001_window/window_20.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal6" class="modal">																<!-- modal# -->
@@ -469,7 +469,7 @@ And just to round things out, let’s take a quick look at one more thing we can
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img7" src="/images/screenshots/001_window/window_20_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img7" src="/gtkDcoding/images/screenshots/001_window/window_20_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal7" class="modal">																			<!-- modal# -->

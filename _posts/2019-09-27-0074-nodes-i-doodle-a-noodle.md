@@ -24,7 +24,7 @@ And in *Blender*, it looks like this:
 
 <div class="inpage-frame">
 	<figure class="left">
-		<img src="/images/diagrams/023_nodes/blender_nodes_and_noodles.png" alt="Figure 1: Model/View/Controller and the User" style="width: 279px; height: 167px;">
+		<img src="/gtkDcoding/images/diagrams/023_nodes/blender_nodes_and_noodles.png" alt="Figure 1: Model/View/Controller and the User" style="width: 279px; height: 167px;">
 		<figcaption>
 			Figure 1: Model/View/Controller and the User
 		</figcaption>
@@ -55,7 +55,7 @@ Third, we’ll bring nodes and noodles together. We’ll be able to connect the 
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img0" src="/images/screenshots/023_nodes/nodes_01.png" alt="Current example output">		<!-- img# -->
+			<img id="img0" src="/gtkDcoding/images/screenshots/023_nodes/nodes_01.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal0" class="modal">																	<!-- modal# -->
@@ -97,7 +97,7 @@ Third, we’ll bring nodes and noodles together. We’ll be able to connect the 
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img1" src="/images/screenshots/023_nodes/nodes_01_term.png" alt="Current example terminal output">		<!-- img#, filename -->
+			<img id="img1" src="/gtkDcoding/images/screenshots/023_nodes/nodes_01_term.png" alt="Current example terminal output">		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal1" class="modal">																				<!-- modal# -->
@@ -150,7 +150,7 @@ We’ve actually talked about the basics of this technique before in [Blog Post 
 
 <div class="inpage-frame">
 	<figure class="left">
-		<img src="/images/diagrams/023_nodes/opposing_control_points.png" alt="Figure 1: Model/View/Controller and the User" style="width: 250px; height: 174px;">
+		<img src="/gtkDcoding/images/diagrams/023_nodes/opposing_control_points.png" alt="Figure 1: Model/View/Controller and the User" style="width: 250px; height: 174px;">
 		<figcaption>
 			Figure 1: Model/View/Controller and the User
 		</figcaption>
@@ -171,7 +171,7 @@ The second control point’s coordinates work out to be:
 
 <div class="inpage-frame">
 	<figure class="right">
-		<img src="/images/diagrams/023_nodes/opposing_surface_normals.png" alt="Figure 1: Model/View/Controller and the User" style="width: 250px; height: 174px;">
+		<img src="/gtkDcoding/images/diagrams/023_nodes/opposing_surface_normals.png" alt="Figure 1: Model/View/Controller and the User" style="width: 250px; height: 174px;">
 		<figcaption>
 			Figure 1: Model/View/Controller and the User
 		</figcaption>

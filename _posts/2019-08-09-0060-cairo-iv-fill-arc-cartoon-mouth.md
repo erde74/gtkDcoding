@@ -20,7 +20,7 @@ This is a continuation of our Cairo briefs...
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img0" src="/images/screenshots/018_cairo/cairo_11.png" alt="Current example output">		<!-- img# -->
+			<img id="img0" src="/gtkDcoding/images/screenshots/018_cairo/cairo_11.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal0" class="modal">																	<!-- modal# -->
@@ -62,7 +62,7 @@ This is a continuation of our Cairo briefs...
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img1" src="/images/screenshots/018_cairo/cairo_11_term.png" alt="Current example terminal output">		<!-- img#, filename -->
+			<img id="img1" src="/gtkDcoding/images/screenshots/018_cairo/cairo_11_term.png" alt="Current example terminal output">		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal1" class="modal">																				<!-- modal# -->
@@ -139,7 +139,7 @@ But we can also do some interesting stuff by issuing a bunch of `arc()` calls in
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img2" src="/images/screenshots/018_cairo/cairo_12.png" alt="Current example output">		<!-- img# -->
+			<img id="img2" src="/gtkDcoding/images/screenshots/018_cairo/cairo_12.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal2" class="modal">																<!-- modal# -->
@@ -181,7 +181,7 @@ But we can also do some interesting stuff by issuing a bunch of `arc()` calls in
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img3" src="/images/screenshots/018_cairo/cairo_12_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img3" src="/gtkDcoding/images/screenshots/018_cairo/cairo_12_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal3" class="modal">																			<!-- modal# -->
@@ -290,7 +290,7 @@ They're the start and end points of the 'smile' arc and they're in radians. A qu
 
 <div class="inpage-frame">
 	<figure class="center">
-		<img class="center" src="/images/diagrams/018_cairo/radians_compass_smile_points.png" alt="Figure 1: Left: First example, Middle/Right: second example in two steps" style="width: 600px; height: 600px;">
+		<img class="center" src="/gtkDcoding/images/diagrams/018_cairo/radians_compass_smile_points.png" alt="Figure 1: Left: First example, Middle/Right: second example in two steps" style="width: 600px; height: 600px;">
 		<figcaption>
 			Figure 2: Radians Compass with 'smile' start and end points marked. 
 		</figcaption>
@@ -307,7 +307,7 @@ They're the start and end points of the 'smile' arc and they're in radians. A qu
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img4" src="/images/screenshots/018_cairo/cairo_13.png" alt="Current example output">		<!-- img# -->
+			<img id="img4" src="/gtkDcoding/images/screenshots/018_cairo/cairo_13.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal4" class="modal">																<!-- modal# -->
@@ -349,7 +349,7 @@ They're the start and end points of the 'smile' arc and they're in radians. A qu
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img5" src="/images/screenshots/018_cairo/cairo_13_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img5" src="/gtkDcoding/images/screenshots/018_cairo/cairo_13_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal5" class="modal">																			<!-- modal# -->
@@ -405,7 +405,7 @@ They're the start and end points of the 'smile' arc and they're in radians. A qu
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img6" src="/images/screenshots/018_cairo/cairo_14.png" alt="Current example output">		<!-- img# -->
+			<img id="img6" src="/gtkDcoding/images/screenshots/018_cairo/cairo_14.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal6" class="modal">																<!-- modal# -->
@@ -447,7 +447,7 @@ They're the start and end points of the 'smile' arc and they're in radians. A qu
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img7" src="/images/screenshots/018_cairo/cairo_14_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img7" src="/gtkDcoding/images/screenshots/018_cairo/cairo_14_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal7" class="modal">																			<!-- modal# -->
@@ -517,7 +517,7 @@ In the second example, however, the first call to `curveTo()` *is* preceded by a
 
 <div class="inpage-frame">
 	<figure class="center">
-		<img class="center" src="/images/diagrams/018_cairo/cairo_13_14_compared.png" alt="Figure 1: Left: First example, Middle/Right: second example in two steps" style="width: 640px; height: 359px;">
+		<img class="center" src="/gtkDcoding/images/diagrams/018_cairo/cairo_13_14_compared.png" alt="Figure 1: Left: First example, Middle/Right: second example in two steps" style="width: 640px; height: 359px;">
 		<figcaption>
 			Figure 1: Left: First example, Middle/Right: second example in two steps
 		</figcaption>

@@ -24,7 +24,7 @@ Yeah, me, too.
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img0" src="/images/screenshots/023_nodes/nodes_08.png" alt="Current example output">		<!-- img# -->
+			<img id="img0" src="/gtkDcoding/images/screenshots/023_nodes/nodes_08.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal0" class="modal">																	<!-- modal# -->
@@ -66,7 +66,7 @@ Yeah, me, too.
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img1" src="/images/screenshots/023_nodes/nodes_08_term.png" alt="Current example terminal output">		<!-- img#, filename -->
+			<img id="img1" src="/gtkDcoding/images/screenshots/023_nodes/nodes_08_term.png" alt="Current example terminal output">		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal1" class="modal">																				<!-- modal# -->
@@ -163,7 +163,7 @@ It may have crossed your mind, too, that we talked about `xRoot` and `yRoot` las
 
 <div class="inpage-frame">
 	<figure class="left">
-		<img src="/images/diagrams/023_nodes/screen_window_layout_node.png" alt="Figure 1: Relationship between the Screen, Window, Layout, and Node" style="width: 446px; height: 312px;">
+		<img src="/gtkDcoding/images/diagrams/023_nodes/screen_window_layout_node.png" alt="Figure 1: Relationship between the Screen, Window, Layout, and Node" style="width: 446px; height: 312px;">
 		<figcaption>
 			Figure 1: Relationship between the Screen, Window, Layout, and Node
 		</figcaption>

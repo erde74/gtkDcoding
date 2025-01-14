@@ -22,7 +22,7 @@ So, let’s start with rectangles.
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img0" src="/images/screenshots/018_cairo/cairo_04.png" alt="Current example output">		<!-- img# -->
+			<img id="img0" src="/gtkDcoding/images/screenshots/018_cairo/cairo_04.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal0" class="modal">																	<!-- modal# -->
@@ -64,7 +64,7 @@ So, let’s start with rectangles.
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img1" src="/images/screenshots/018_cairo/cairo_04_term.png" alt="Current example terminal output">		<!-- img#, filename -->
+			<img id="img1" src="/gtkDcoding/images/screenshots/018_cairo/cairo_04_term.png" alt="Current example terminal output">		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal1" class="modal">																				<!-- modal# -->
@@ -136,7 +136,7 @@ The rectangle() arguments are as they seem, x and y coordinates of the upper-lef
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img2" src="/images/screenshots/018_cairo/cairo_05.png" alt="Current example output">		<!-- img# -->
+			<img id="img2" src="/gtkDcoding/images/screenshots/018_cairo/cairo_05.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal2" class="modal">																<!-- modal# -->
@@ -178,7 +178,7 @@ The rectangle() arguments are as they seem, x and y coordinates of the upper-lef
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img3" src="/images/screenshots/018_cairo/cairo_05_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img3" src="/gtkDcoding/images/screenshots/018_cairo/cairo_05_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal3" class="modal">																			<!-- modal# -->
@@ -264,7 +264,7 @@ The dash pattern is an array of doubles and can be summed up as:
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img4" src="/images/screenshots/018_cairo/cairo_06.png" alt="Current example output">		<!-- img# -->
+			<img id="img4" src="/gtkDcoding/images/screenshots/018_cairo/cairo_06.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal4" class="modal">																<!-- modal# -->
@@ -306,7 +306,7 @@ The dash pattern is an array of doubles and can be summed up as:
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img5" src="/images/screenshots/018_cairo/cairo_06_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img5" src="/gtkDcoding/images/screenshots/018_cairo/cairo_06_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal5" class="modal">																			<!-- modal# -->
@@ -377,7 +377,7 @@ No mystery here, just substitute context.fill() for context.stroke() and if you 
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img6" src="/images/screenshots/018_cairo/cairo_07.png" alt="Current example output">		<!-- img# -->
+			<img id="img6" src="/gtkDcoding/images/screenshots/018_cairo/cairo_07.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal6" class="modal">																<!-- modal# -->
@@ -419,7 +419,7 @@ No mystery here, just substitute context.fill() for context.stroke() and if you 
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img7" src="/images/screenshots/018_cairo/cairo_07_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img7" src="/gtkDcoding/images/screenshots/018_cairo/cairo_07_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal7" class="modal">																			<!-- modal# -->
@@ -497,7 +497,7 @@ And finally, let’s look at...
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img8" src="/images/screenshots/018_cairo/cairo_08.png" alt="Current example output">		<!-- img# -->
+			<img id="img8" src="/gtkDcoding/images/screenshots/018_cairo/cairo_08.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal8" class="modal">																<!-- modal# -->
@@ -539,7 +539,7 @@ And finally, let’s look at...
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img9" src="/images/screenshots/018_cairo/cairo_08_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img9" src="/gtkDcoding/images/screenshots/018_cairo/cairo_08_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal9" class="modal">																			<!-- modal# -->

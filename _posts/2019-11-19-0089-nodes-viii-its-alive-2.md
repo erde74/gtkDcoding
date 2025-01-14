@@ -24,7 +24,7 @@ Here's another look at where we're headed...
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img0" src="/images/screenshots/023_nodes/nodes_08.png" alt="Current example output">		<!-- img# -->
+			<img id="img0" src="/gtkDcoding/images/screenshots/023_nodes/nodes_08.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal0" class="modal">																	<!-- modal# -->
@@ -66,7 +66,7 @@ Here's another look at where we're headed...
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img1" src="/images/screenshots/023_nodes/nodes_08_term.png" alt="Current example terminal output">		<!-- img#, filename -->
+			<img id="img1" src="/gtkDcoding/images/screenshots/023_nodes/nodes_08_term.png" alt="Current example terminal output">		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal1" class="modal">																				<!-- modal# -->
@@ -163,7 +163,7 @@ These each do one simple job. One takes x and y coordinates for the current posi
 
 <div class="inpage-frame">
 	<figure class="left">
-		<img src="/images/diagrams/023_nodes/node_offset.png" alt="Figure 1: Offset: the distance (x/y) from the node origin to the mouse pointer at the time it was clicked" style="width: 229px; height: 199px;">
+		<img src="/gtkDcoding/images/diagrams/023_nodes/node_offset.png" alt="Figure 1: Offset: the distance (x/y) from the node origin to the mouse pointer at the time it was clicked" style="width: 229px; height: 199px;">
 		<figcaption>
 			Figure 1: Offset: the distance (x/y) from the node <BR>origin to the mouse pointer at the time it was clicked
 		</figcaption>

@@ -30,7 +30,7 @@ Today we look at three examples covering both ways of loading files, two that di
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img0" src="/images/screenshots/018_cairo/cairo_17.png" alt="Current example output">		<!-- img# -->
+			<img id="img0" src="/gtkDcoding/images/screenshots/018_cairo/cairo_17.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal0" class="modal">																	<!-- modal# -->
@@ -72,7 +72,7 @@ Today we look at three examples covering both ways of loading files, two that di
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img1" src="/images/screenshots/018_cairo/cairo_17_term.png" alt="Current example terminal output">		<!-- img#, filename -->
+			<img id="img1" src="/gtkDcoding/images/screenshots/018_cairo/cairo_17_term.png" alt="Current example terminal output">		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal1" class="modal">																				<!-- modal# -->
@@ -169,7 +169,7 @@ The next method of loading an image can also be used with PNG format, but it wil
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img2" src="/images/screenshots/018_cairo/cairo_18.png" alt="Current example output">		<!-- img# -->
+			<img id="img2" src="/gtkDcoding/images/screenshots/018_cairo/cairo_18.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal2" class="modal">																<!-- modal# -->
@@ -211,7 +211,7 @@ The next method of loading an image can also be used with PNG format, but it wil
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img3" src="/images/screenshots/018_cairo/cairo_18_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img3" src="/gtkDcoding/images/screenshots/018_cairo/cairo_18_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal3" class="modal">																			<!-- modal# -->
@@ -307,7 +307,7 @@ Substitute a call to `setSourcePixbuf()` for the call to `setSourceSurface()` we
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img4" src="/images/screenshots/018_cairo/cairo_19.png" alt="Current example output">		<!-- img# -->
+			<img id="img4" src="/gtkDcoding/images/screenshots/018_cairo/cairo_19.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal4" class="modal">																<!-- modal# -->
@@ -349,7 +349,7 @@ Substitute a call to `setSourcePixbuf()` for the call to `setSourceSurface()` we
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img5" src="/images/screenshots/018_cairo/cairo_19_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img5" src="/gtkDcoding/images/screenshots/018_cairo/cairo_19_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal5" class="modal">																			<!-- modal# -->

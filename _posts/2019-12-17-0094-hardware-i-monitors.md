@@ -37,7 +37,7 @@ A `Display` is any and all hardware providing visuals to a single user at a sing
 
 <div class="inpage-frame">
 	<figure class="left">
-		<img src="/images/diagrams/024_hardware/seat_display_screen.png" alt="Figure 1: Seat, Display, and Screen" style="width: 327px; height: 390px;">
+		<img src="/gtkDcoding/images/diagrams/024_hardware/seat_display_screen.png" alt="Figure 1: Seat, Display, and Screen" style="width: 327px; height: 390px;">
 		<figcaption>
 			Figure 1: Seat, Display, and Screen
 		</figcaption>
@@ -63,7 +63,7 @@ So, let’s start by...
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img0" src="/images/screenshots/024_hardware/hardware_01.png" alt="Current example output">		<!-- img# -->
+			<img id="img0" src="/gtkDcoding/images/screenshots/024_hardware/hardware_01.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal0" class="modal">																	<!-- modal# -->
@@ -105,7 +105,7 @@ So, let’s start by...
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img1" src="/images/screenshots/024_hardware/hardware_01_term.png" alt="Current example terminal output">		<!-- img#, filename -->
+			<img id="img1" src="/gtkDcoding/images/screenshots/024_hardware/hardware_01_term.png" alt="Current example terminal output">		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal1" class="modal">																				<!-- modal# -->

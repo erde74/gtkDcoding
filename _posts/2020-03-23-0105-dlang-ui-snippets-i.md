@@ -48,7 +48,7 @@ Note: There is no UI for this example. You’ll have to run it in a terminal.
 	</div>
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img1" src="/images/screenshots/021_oop/oop_02_term.png" alt="Current example terminal output">		<!-- img#, filename -->
+			<img id="img1" src="/gtkDcoding/images/screenshots/021_oop/oop_02_term.png" alt="Current example terminal output">		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal1" class="modal">																				<!-- modal# -->
@@ -177,7 +177,7 @@ It spits out the address of the pointer to the *Singleton* as well as the addres
 	</div>
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img3" src="/images/screenshots/021_oop/oop_03_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img3" src="/gtkDcoding/images/screenshots/021_oop/oop_03_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal3" class="modal">																			<!-- modal# -->

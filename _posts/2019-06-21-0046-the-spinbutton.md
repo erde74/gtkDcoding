@@ -18,7 +18,7 @@ This one’s both easy and tricky. Let me explain...
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img0" src="/images/screenshots/002_button/button_18.png" alt="Current example output">		<!-- img# -->
+			<img id="img0" src="/gtkDcoding/images/screenshots/002_button/button_18.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal0" class="modal">																	<!-- modal# -->
@@ -60,7 +60,7 @@ This one’s both easy and tricky. Let me explain...
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img1" src="/images/screenshots/002_button/button_18_term.png" alt="Current example terminal output">		<!-- img#, filename -->
+			<img id="img1" src="/gtkDcoding/images/screenshots/002_button/button_18_term.png" alt="Current example terminal output">		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal1" class="modal">																				<!-- modal# -->
@@ -178,7 +178,7 @@ With a `SpinButton`, the `Adjustment`'s `pageSize` is best set to ‘0.’
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img2" src="/images/screenshots/002_button/button_19.png" alt="Current example output">		<!-- img# -->
+			<img id="img2" src="/gtkDcoding/images/screenshots/002_button/button_19.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal2" class="modal">																<!-- modal# -->
@@ -220,7 +220,7 @@ With a `SpinButton`, the `Adjustment`'s `pageSize` is best set to ‘0.’
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img3" src="/images/screenshots/002_button/button_19_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img3" src="/gtkDcoding/images/screenshots/002_button/button_19_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal3" class="modal">																			<!-- modal# -->
@@ -382,7 +382,7 @@ Now you know how to tame the `SpinButton` and `Adjustment` beasts.
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img4" src="/images/screenshots/002_button/button_20.png" alt="Current example output">		<!-- img# -->
+			<img id="img4" src="/gtkDcoding/images/screenshots/002_button/button_20.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal4" class="modal">																<!-- modal# -->
@@ -424,7 +424,7 @@ Now you know how to tame the `SpinButton` and `Adjustment` beasts.
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img5" src="/images/screenshots/002_button/button_20_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img5" src="/gtkDcoding/images/screenshots/002_button/button_20_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal5" class="modal">																			<!-- modal# -->

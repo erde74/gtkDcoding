@@ -14,7 +14,7 @@ Before we start...
 
 <div class="inpage-frame">
 	<figure class="left">
-		<img src="/images/diagrams/017_mvc/mvc_01_mvc_and_the_user.png" alt="Figure 1: Model/View/Controller and the User" style="width: 500px; height: 314px;">
+		<img src="/gtkDcoding/images/diagrams/017_mvc/mvc_017_01_mvc_and_the_user.png" alt="Figure 1: Model/View/Controller and the User" style="width: 500px; height: 314px;">
 		<figcaption>
 			Figure 1: Model/View/Controller and the User
 		</figcaption>
@@ -31,7 +31,7 @@ Let’s look at these pieces one at a time starting with...
 
 <div class="inpage-frame">
 	<figure class="right">
-		<img src="/images/diagrams/017_mvc/mvc_01_model_table.png" alt="Firgure 2: The TreeModel is a table" style="width: 400px; height: 316px;">
+		<img src="/gtkDcoding/images/diagrams/017_mvc/mvc_017_01_model_table.png" alt="Firgure 2: The TreeModel is a table" style="width: 400px; height: 316px;">
 		<figcaption>
 			Firgure 2: The TreeModel is a table
 		</figcaption>
@@ -46,7 +46,7 @@ In *GTK* parlance, a **Model** is referred to as a `TreeModel` but, we rarely de
 
 <div class="inpage-frame">
 	<figure class="left">
-		<img src="/images/diagrams/017_mvc/mvc_01_hierarchical_tree_model.png" alt="Figure 3: The TreeView is Hierarchical" style="width: 500px; height: 250px;">
+		<img src="/gtkDcoding/images/diagrams/017_mvc/mvc_017_01_hierarchical_tree_model.png" alt="Figure 3: The TreeView is Hierarchical" style="width: 500px; height: 250px;">
 		<figcaption>
 			Figure 3: The TreeView is Hierarchical
 		</figcaption>

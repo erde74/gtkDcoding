@@ -26,7 +26,7 @@ We discussed the difference between the *Observer* and *Singleton* patterns, the
 	</div>
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img1" src="/images/screenshots/021_oop/oop_01_term.png" alt="Current example terminal output">		<!-- img#, filename -->
+			<img id="img1" src="/gtkDcoding/images/screenshots/021_oop/oop_01_term.png" alt="Current example terminal output">		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal1" class="modal">																				<!-- modal# -->

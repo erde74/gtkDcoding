@@ -22,7 +22,7 @@ About a month ago, we broke away from *MVC* to talk about drawing with *Cairo*. 
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img0" src="/images/screenshots/017_mvc/mvc_14.png" alt="Current example output">		<!-- img# -->
+			<img id="img0" src="/gtkDcoding/images/screenshots/017_mvc/mvc_14.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal0" class="modal">																	<!-- modal# -->
@@ -64,7 +64,7 @@ About a month ago, we broke away from *MVC* to talk about drawing with *Cairo*. 
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img1" src="/images/screenshots/017_mvc/mvc_14_term.png" alt="Current example terminal output">		<!-- img#, filename -->
+			<img id="img1" src="/gtkDcoding/images/screenshots/017_mvc/mvc_14_term.png" alt="Current example terminal output">		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal1" class="modal">																				<!-- modal# -->
@@ -179,7 +179,7 @@ In effect, this approach allows us to use whatever `TreeIter` is returned by `ap
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img2" src="/images/screenshots/017_mvc/mvc_15.png" alt="Current example output">		<!-- img# -->
+			<img id="img2" src="/gtkDcoding/images/screenshots/017_mvc/mvc_15.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal2" class="modal">																<!-- modal# -->
@@ -221,7 +221,7 @@ In effect, this approach allows us to use whatever `TreeIter` is returned by `ap
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img3" src="/images/screenshots/017_mvc/mvc_15_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img3" src="/gtkDcoding/images/screenshots/017_mvc/mvc_15_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal3" class="modal">																			<!-- modal# -->
@@ -318,7 +318,7 @@ But I mentioned earlier that there’s a second way to do this, so let’s look 
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img4" src="/images/screenshots/017_mvc/mvc_16.png" alt="Current example output">		<!-- img# -->
+			<img id="img4" src="/gtkDcoding/images/screenshots/017_mvc/mvc_16.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal4" class="modal">																<!-- modal# -->
@@ -360,7 +360,7 @@ But I mentioned earlier that there’s a second way to do this, so let’s look 
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img5" src="/images/screenshots/017_mvc/mvc_16_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img5" src="/gtkDcoding/images/screenshots/017_mvc/mvc_16_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal5" class="modal">																			<!-- modal# -->
@@ -443,7 +443,7 @@ Everything else is the same with just that simple substitution. `append()` becom
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img6" src="/images/screenshots/017_mvc/mvc_17.png" alt="Current example output">		<!-- img# -->
+			<img id="img6" src="/gtkDcoding/images/screenshots/017_mvc/mvc_17.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal6" class="modal">																<!-- modal# -->
@@ -485,7 +485,7 @@ Everything else is the same with just that simple substitution. `append()` becom
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img7" src="/images/screenshots/017_mvc/mvc_17_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img7" src="/gtkDcoding/images/screenshots/017_mvc/mvc_17_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal7" class="modal">																			<!-- modal# -->

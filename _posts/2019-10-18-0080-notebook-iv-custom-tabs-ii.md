@@ -20,7 +20,7 @@ Last time we got started on building customized tabs, so let's continue, startin
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img0" src="/images/screenshots/014_container/container_16.png" alt="Current example output">		<!-- img# -->
+			<img id="img0" src="/gtkDcoding/images/screenshots/014_container/container_16.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal0" class="modal">																	<!-- modal# -->
@@ -62,7 +62,7 @@ Last time we got started on building customized tabs, so let's continue, startin
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img1" src="/images/screenshots/014_container/container_16_term.png" alt="Current example terminal output">		<!-- img#, filename -->
+			<img id="img1" src="/gtkDcoding/images/screenshots/014_container/container_16_term.png" alt="Current example terminal output">		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal1" class="modal">																				<!-- modal# -->
@@ -179,7 +179,7 @@ Each time the user clicks on our customized tab, this callback triggers and, in 
 
 <div class="inpage-frame">
 	<figure class="left">
-		<img src="/images/diagrams/014_container/active_tab_area.png" alt="Figure 1: Active tab areas" style="width: 294px; height: 231px;">
+		<img src="/gtkDcoding/images/diagrams/014_container/active_tab_area.png" alt="Figure 1: Active tab areas" style="width: 294px; height: 231px;">
 		<figcaption>
 			Figure 1: Active tab areas
 		</figcaption>

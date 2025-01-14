@@ -20,7 +20,7 @@ Okay, let’s have another look at what we’re aiming for:
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img0" src="/images/screenshots/014_container/container_16.png" alt="Current example output">		<!-- img# -->
+			<img id="img0" src="/gtkDcoding/images/screenshots/014_container/container_16.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal0" class="modal">																	<!-- modal# -->
@@ -62,7 +62,7 @@ Okay, let’s have another look at what we’re aiming for:
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img1" src="/images/screenshots/014_container/container_16_term.png" alt="Current example terminal output">		<!-- img#, filename -->
+			<img id="img1" src="/gtkDcoding/images/screenshots/014_container/container_16_term.png" alt="Current example terminal output">		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal1" class="modal">																				<!-- modal# -->
@@ -136,7 +136,7 @@ Now, the rest of this is for the actual drawing of the shape we’ll use as the 
 
 <div class="inpage-frame">
 	<figure class="left">
-		<img src="/images/diagrams/014_container/container_15.png" alt="Figure 1: Diagram for a round-shouldered tab" style="width: 250px; height: 141px;">
+		<img src="/gtkDcoding/images/diagrams/014_container/container_15.png" alt="Figure 1: Diagram for a round-shouldered tab" style="width: 250px; height: 141px;">
 		<figcaption>
 			Figure 1: Diagram for a round-shouldered tab
 		</figcaption>
@@ -163,7 +163,7 @@ Now, let’s skip back up and go over the rest of these preamble variables:
 
 <div class="inpage-frame">
 	<figure class="left">
-		<img src="/images/diagrams/014_container/custom_tabs_baseline_various_positions.png" alt="Figure 2: How the Custom Tab's Baseline setting Affects Placement of the Text" style="width: 497px; height: 341px;">
+		<img src="/gtkDcoding/images/diagrams/014_container/custom_tabs_baseline_various_positions.png" alt="Figure 2: How the Custom Tab's Baseline setting Affects Placement of the Text" style="width: 497px; height: 341px;">
 		<figcaption>
 			Figure 2: How the Custom Tab's Baseline setting Affects Placement of the Text
 		</figcaption>

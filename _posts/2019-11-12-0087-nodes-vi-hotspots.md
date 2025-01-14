@@ -20,7 +20,7 @@ Here's a look at what we're dealing with today. It may look the same as the prev
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img0" src="/images/screenshots/023_nodes/nodes_07.png" alt="Current example output">		<!-- img# -->
+			<img id="img0" src="/gtkDcoding/images/screenshots/023_nodes/nodes_07.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal0" class="modal">																	<!-- modal# -->
@@ -62,7 +62,7 @@ Here's a look at what we're dealing with today. It may look the same as the prev
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img1" src="/images/screenshots/023_nodes/nodes_07_term.png" alt="Current example terminal output">		<!-- img#, filename -->
+			<img id="img1" src="/gtkDcoding/images/screenshots/023_nodes/nodes_07_term.png" alt="Current example terminal output">		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal1" class="modal">																				<!-- modal# -->
@@ -122,7 +122,7 @@ The first step toward this is to define those areas as...
 
 <div class="inpage-frame">
 	<figure class="left">
-		<img src="/images/diagrams/023_nodes/node.png" alt="Figure 1: The Node" style="width: 111px; height: 102px;">
+		<img src="/gtkDcoding/images/diagrams/023_nodes/node.png" alt="Figure 1: The Node" style="width: 111px; height: 102px;">
 		<figcaption>
 			Figure 1: The Node
 		</figcaption>
@@ -255,7 +255,7 @@ Of all the values in this struct, what we want are the `x` and `y` variables whi
 
 <div class="inpage-frame">
 	<figure class="right">
-		<img src="/images/diagrams/023_nodes/event_hierarchy.png" alt="Figure 1: button variables at two levels in the hierarchy" style="width: 454px; height: 148px;">
+		<img src="/gtkDcoding/images/diagrams/023_nodes/event_hierarchy.png" alt="Figure 1: button variables at two levels in the hierarchy" style="width: 454px; height: 148px;">
 		<figcaption>
 			Figure 1: button variables at two levels in the hierarchy
 		</figcaption>

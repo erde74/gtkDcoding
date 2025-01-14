@@ -20,7 +20,7 @@ Let’s jump right in and look at...
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img0" src="/images/screenshots/018_cairo/cairo_09.png" alt="Current example output">		<!-- img# -->
+			<img id="img0" src="/gtkDcoding/images/screenshots/018_cairo/cairo_09.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal0" class="modal">																	<!-- modal# -->
@@ -62,7 +62,7 @@ Let’s jump right in and look at...
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img1" src="/images/screenshots/018_cairo/cairo_09_term.png" alt="Current example terminal output">		<!-- img#, filename -->
+			<img id="img1" src="/gtkDcoding/images/screenshots/018_cairo/cairo_09_term.png" alt="Current example terminal output">		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal1" class="modal">																				<!-- modal# -->
@@ -157,7 +157,7 @@ So I took the liberty of reproducing the conversion chart so it accurately refle
 
 <div class="inpage-frame">
 	<figure class="center">
-		<img src="/images/diagrams/018_cairo/degrees_radians_clockwise.png" alt="Figure 1: Degrees and Radians, Clockwise" style="width: 600px; height: 600px;" class="center">
+		<img src="/gtkDcoding/images/diagrams/018_cairo/degrees_radians_clockwise.png" alt="Figure 1: Degrees and Radians, Clockwise" style="width: 600px; height: 600px;" class="center">
 		<figcaption>
 			Figure 1: Degrees/radians conversion in the Cairo worldview. 
 		</figcaption>
@@ -172,7 +172,7 @@ So I took the liberty of reproducing the conversion chart so it accurately refle
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img2" src="/images/screenshots/018_cairo/cairo_10.png" alt="Current example output">		<!-- img# -->
+			<img id="img2" src="/gtkDcoding/images/screenshots/018_cairo/cairo_10.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal2" class="modal">																<!-- modal# -->
@@ -214,7 +214,7 @@ So I took the liberty of reproducing the conversion chart so it accurately refle
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img3" src="/images/screenshots/018_cairo/cairo_10_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
+			<img id="img3" src="/gtkDcoding/images/screenshots/018_cairo/cairo_10_term.png" alt="Current example terminal output"> 		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal3" class="modal">																			<!-- modal# -->

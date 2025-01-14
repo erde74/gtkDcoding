@@ -146,7 +146,7 @@ And that should be that. You should be ready to dance the D-dance.
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img0" src="/images/screenshots/001_window/window_01.png" alt="Current example output">	<!-- img# -->
+			<img id="img0" src="/gtkDcoding/images/screenshots/001_window/window_01.png" alt="Current example output">	<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal0" class="modal">																								<!-- modal# -->
@@ -188,7 +188,7 @@ And that should be that. You should be ready to dance the D-dance.
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img1" src="/images/screenshots/001_window/window_01_term.png" alt="Current example terminal output"> <!-- img#, filename -->
+			<img id="img1" src="/gtkDcoding/images/screenshots/001_window/window_01_term.png" alt="Current example terminal output"> <!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal1" class="modal">																												<!-- modal# -->

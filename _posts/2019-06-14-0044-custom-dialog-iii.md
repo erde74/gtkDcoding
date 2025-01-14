@@ -30,7 +30,7 @@ The *Action Area* used in this example uses an array of roll-yer-own `Button` `L
 	</div>
 	<div class="frame-screenshot">
 		<figure>
-			<img id="img0" src="/images/screenshots/013_dialogs/dialog_10.png" alt="Current example output">		<!-- img# -->
+			<img id="img0" src="/gtkDcoding/images/screenshots/013_dialogs/dialog_10.png" alt="Current example output">		<!-- img# -->
 			
 			<!-- Modal for screenshot -->
 			<div id="modal0" class="modal">																	<!-- modal# -->
@@ -72,7 +72,7 @@ The *Action Area* used in this example uses an array of roll-yer-own `Button` `L
 
 	<div class="frame-terminal">
 		<figure class="right">
-			<img id="img1" src="/images/screenshots/013_dialogs/dialog_10_term.png" alt="Current example terminal output">		<!-- img#, filename -->
+			<img id="img1" src="/gtkDcoding/images/screenshots/013_dialogs/dialog_10_term.png" alt="Current example terminal output">		<!-- img#, filename -->
 
 			<!-- Modal for terminal shot -->
 			<div id="modal1" class="modal">																				<!-- modal# -->
@@ -172,7 +172,7 @@ class AreaContent
 
 <div class="inpage-frame">
 	<figure class="left">
-		<img src="/images/diagrams/013_dialog/dialog_10_grid_diagram.png" alt="Simple guide to laying out a dialog" style="size: 75%;">
+		<img src="/gtkDcoding/images/diagrams/013_dialog/dialog_10_grid_diagram.png" alt="Simple guide to laying out a dialog" style="size: 75%;">
 		<figcaption>
 			Figure 1: A simple diagram for laying out a dialog
 		</figcaption>
